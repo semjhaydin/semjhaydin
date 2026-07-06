@@ -17,12 +17,6 @@ I'm Semih Aydın, a junior software developer and Computer Engineering student a
   <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,c&theme=dark" />
 </p>
 <p align="center">
-  ![JavaScript](https://img.shields.io/badge/JavaScript-fe428e?style=for-the-badge&logo=javascript&logoColor=white) 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-fe428e?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS-fe428e?style=for-the-badge&logo=css&logoColor=white) 
-  ![HTML](https://img.shields.io/badge/HTML-fe428e?style=for-the-badge&logo=html&logoColor=white) 
-  ![C](https://img.shields.io/badge/C-fe428e?style=for-the-badge&logo=c&logoColor=white)
-</p>
 
 <br>
 
