@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=fe428e¢er=true&vCenter=true&width=500&lines=Semih%20Ayd%C4%B1n%20%F0%9F%91%8B;JavaScript%20%E2%80%A2%20TypeScript%20%E2%80%A2%20CSS;Semih%20Ayd%C4%B1n%2C%20Software%20Engineer%2C%20Studying%20Computer%20" alt="Typing SVG" />
-</div>
 
-I'm Semih Aydın, a junior software developer and Computer Engineering student at Trabzon University, expected to graduate in 2029. I have 2 years of experience in software development, and I've worked on various projects, including a React.js + REST API-based platform with over 50,000 active users. I'm skilled in JavaScript, TypeScript, CSS, HTML, and C, and I have experience with Git, Agile sprint processes, and Oracle databases.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=fe428e&center=true&vCenter=true&width=500&lines=Semih+Ayd%C4%B1n+👋;JavaScript+•+TypeScript+•+CSS;Semih+Ayd%C4%B1n,+Software+Engineer,+Studying+Computer+Engineering" alt="Typing SVG" />
+
+</div>
 
 <br>
 
